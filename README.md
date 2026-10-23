@@ -66,14 +66,4 @@ This repository contains my **5th-semester study materials** for the Computer Or
 
 This repository is part of my BS Computer Science learning journey. My goal is to build a well-organized collection of academic resources that supports conceptual understanding, problem-solving, and exam preparation.
 
-## 🤝 Contributions & Feedback
 
-If you find an error or have a suggestion for improving the study material, feel free to open an issue or share your feedback.
-
-## 📄 Disclaimer
-
-These materials are maintained for educational and personal study purposes. Course content and solutions may be updated as my understanding develops.
-
----
-
-**Made with 📚 and 💻 as part of my BS Computer Science journey.**
